@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1495638100 source:c:\users\cristian\desktop\material para examen\ejemplos\archivos\clase19_4\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+

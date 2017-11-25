@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1499645620 source:c:\users\cristian\desktop\parcial laboratorio\parcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1499813390 c:\users\cristian\desktop\parcial laboratorio\parcial\arraylist.h
+
+1501186056 source:c:\users\cristian\desktop\parcial laboratorio\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Numeros.h"
+	"utn.h"
+	"functions.h"
+
+1501185174 c:\users\cristian\desktop\parcial laboratorio\parcial\numeros.h
+
+1500506470 c:\users\cristian\desktop\parcial laboratorio\parcial\utn.h
+
+1501186585 source:c:\users\cristian\desktop\parcial laboratorio\parcial\numeros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Numeros.h"
+	"utn.h"
+
+1495078137 source:c:\users\cristian\desktop\parcial laboratorio\parcial\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+
+1499965339 source:c:\users\cristian\desktop\parcial laboratorio\parcial\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1499965339 c:\users\cristian\desktop\parcial laboratorio\parcial\functions.h
+
+1500505422 c:\users\cristian\desktop\parcial laboratorio\parcial\numeronatural.h
+
+1500504543 source:c:\users\cristian\desktop\parcial laboratorio\parcial\numeronatural.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Numeros.h"
+	"utn.h"
+	"functions.h"
+	"numeroNatural.h"
+
+1500761218 source:c:\users\cristian\desktop\parcial laboratorio\parcial\completar.c
+
+1499645620 source:c:\users\cristian\desktop\parcial laboratorio\parcial - intento\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1499813390 c:\users\cristian\desktop\parcial laboratorio\parcial - intento\arraylist.h
+
+1499965339 source:c:\users\cristian\desktop\parcial laboratorio\parcial - intento\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1495078137 source:c:\users\cristian\desktop\parcial laboratorio\parcial - intento\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+
+1500506470 c:\users\cristian\desktop\parcial laboratorio\parcial - intento\utn.h
+
+1501117396 source:c:\users\cristian\desktop\parcial laboratorio\parcial - intento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Numeros.h"
+	"utn.h"
+	"functions.h"
+
+1501114580 c:\users\cristian\desktop\parcial laboratorio\parcial - intento\numeros.h
+
+1499965339 c:\users\cristian\desktop\parcial laboratorio\parcial - intento\functions.h
+
+1501117182 source:c:\users\cristian\desktop\parcial laboratorio\parcial - intento\numeros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Numeros.h"
+	"utn.h"
+
+1499645620 source:e:\archivos\utn\laboratorio 1 - programacion 1\parcial laboratorio\parcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1499813392 e:\archivos\utn\laboratorio 1 - programacion 1\parcial laboratorio\parcial\arraylist.h
+
+1499965340 source:e:\archivos\utn\laboratorio 1 - programacion 1\parcial laboratorio\parcial\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1501186058 source:e:\archivos\utn\laboratorio 1 - programacion 1\parcial laboratorio\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Numeros.h"
+	"utn.h"
+	"functions.h"
+
+1501185176 e:\archivos\utn\laboratorio 1 - programacion 1\parcial laboratorio\parcial\numeros.h
+
+1500506472 e:\archivos\utn\laboratorio 1 - programacion 1\parcial laboratorio\parcial\utn.h
+
+1499965340 e:\archivos\utn\laboratorio 1 - programacion 1\parcial laboratorio\parcial\functions.h
+
+1501186586 source:e:\archivos\utn\laboratorio 1 - programacion 1\parcial laboratorio\parcial\numeros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Numeros.h"
+	"utn.h"
+
+1495078138 source:e:\archivos\utn\laboratorio 1 - programacion 1\parcial laboratorio\parcial\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+

@@ -1,0 +1,12 @@
+09/07/2017;10:01;Impresoras;Error26
+09/07/2017;10:06;Reemplazo Mouse/Teclado;Error31
+09/07/2017;10:30;PCs;Error55
+09/07/2017;10:43;Usuarios y Password;Error68
+09/07/2017;10:44;Reemplazo Mouse/Teclado;Error69
+09/07/2017;11:08;Redes;Error93
+09/07/2017;10:01;Impresoras;Error26
+09/07/2017;10:06;Reemplazo Mouse/Teclado;Error31
+09/07/2017;10:30;PCs;Error55
+09/07/2017;10:43;Usuarios y Password;Error68
+09/07/2017;10:44;Reemplazo Mouse/Teclado;Error69
+09/07/2017;11:08;Redes;Error93

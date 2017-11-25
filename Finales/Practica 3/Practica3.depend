@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1499569563 source:c:\users\user\desktop\practica3\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497494526 c:\users\user\desktop\practica3\arraylist.h
+
+1499923148 source:c:\users\user\desktop\practica3\class.feed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.Feed.h"
+	"Class.User.h"
+	"Class.Post.h"
+
+1499917620 source:c:\users\user\desktop\practica3\class.post.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.Post.h"
+
+1499915528 source:c:\users\user\desktop\practica3\class.user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.User.h"
+
+1499574218 c:\users\user\desktop\practica3\functions.h
+
+1499910481 c:\users\user\desktop\practica3\class.user.h
+	"ArrayList.h"
+
+1499574198 source:c:\users\user\desktop\practica3\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1499923119 source:c:\users\user\desktop\practica3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.Post.h"
+	"Class.User.h"
+	"Class.Feed.h"
+
+1499913306 c:\users\user\desktop\practica3\class.post.h
+	"ArrayList.h"
+
+1499922530 c:\users\user\desktop\practica3\class.feed.h
+	"ArrayList.h"
+
+1499965339 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1499965339 c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 4\arraylist.h
+
+1499965339 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 4\class.feed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.Feed.h"
+	"Class.User.h"
+	"Class.Post.h"
+
+1499965339 c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 4\functions.h
+
+1499965494 c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 4\class.feed.h
+	"ArrayList.h"
+
+1499965339 c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 4\class.user.h
+	"ArrayList.h"
+
+1499965339 c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 4\class.post.h
+	"ArrayList.h"
+
+1499965339 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 4\class.post.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.Post.h"
+
+1499965339 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 4\class.user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.User.h"
+
+1499965339 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 4\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1499965340 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.Post.h"
+	"Class.User.h"
+	"Class.Feed.h"
+

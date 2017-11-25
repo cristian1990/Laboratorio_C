@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1499569563 source:c:\users\user\desktop\practica2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497494526 c:\users\user\desktop\practica2\arraylist.h
+
+1499574198 source:c:\users\user\desktop\practica2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1499658994 source:c:\users\user\desktop\practica2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Random.h"
+
+1499574218 c:\users\user\desktop\practica2\functions.h
+
+1499658716 c:\users\user\desktop\practica2\random.h
+	"ArrayList.h"
+
+1499655462 source:c:\users\user\desktop\practica2\random.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Random.h"
+	"ArrayList.h"
+	"Functions.h"
+
+1499645620 source:c:\users\cristian\desktop\parcial laboratorio\practica-master\practica-master\practica2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1499645620 c:\users\cristian\desktop\parcial laboratorio\practica-master\practica-master\practica2\arraylist.h
+
+1499645620 source:c:\users\cristian\desktop\parcial laboratorio\practica-master\practica-master\practica2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1499645620 source:c:\users\cristian\desktop\parcial laboratorio\practica-master\practica-master\practica2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Random.h"
+
+1499645620 c:\users\cristian\desktop\parcial laboratorio\practica-master\practica-master\practica2\functions.h
+
+1499645620 c:\users\cristian\desktop\parcial laboratorio\practica-master\practica-master\practica2\random.h
+	"ArrayList.h"
+
+1499645620 source:c:\users\cristian\desktop\parcial laboratorio\practica-master\practica-master\practica2\random.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Random.h"
+	"ArrayList.h"
+	"Functions.h"
+
+1499645620 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1499812401 c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 2\arraylist.h
+
+1499645620 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1499645620 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Random.h"
+
+1499645620 c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 2\functions.h
+
+1499645620 c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 2\random.h
+	"ArrayList.h"
+
+1499645620 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 2\random.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Random.h"
+	"ArrayList.h"
+	"Functions.h"
+

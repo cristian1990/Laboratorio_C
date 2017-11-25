@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1501802951 source:d:\111\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+	"tickets.h"
+	"problemas.h"
+
+1501802789 d:\111\final\arraylist.h
+
+1499983420 d:\111\final\functions.h
+
+1501802648 d:\111\final\tickets.h
+	"ArrayList.h"
+
+1501802532 d:\111\final\problemas.h
+	"ArrayList.h"
+
+1501802572 source:d:\111\final\problemas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+	"problemas.h"
+
+1501804080 source:d:\111\final\tickets.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+	"tickets.h"
+	"problemas.h"
+
+1501802273 source:d:\111\final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1501801014 source:d:\111\final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1501801014 d:\111\final\funciones.h
+
+1501802274 source:c:\users\cristian\desktop\repositorio\trabajos-del-primer-cuatrimestre\finales\final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1501802790 c:\users\cristian\desktop\repositorio\trabajos-del-primer-cuatrimestre\finales\final\arraylist.h
+
+1501801016 source:c:\users\cristian\desktop\repositorio\trabajos-del-primer-cuatrimestre\finales\final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1501802574 source:c:\users\cristian\desktop\repositorio\trabajos-del-primer-cuatrimestre\finales\final\problemas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+	"problemas.h"
+
+1501801016 c:\users\cristian\desktop\repositorio\trabajos-del-primer-cuatrimestre\finales\final\funciones.h
+
+1501802534 c:\users\cristian\desktop\repositorio\trabajos-del-primer-cuatrimestre\finales\final\problemas.h
+	"ArrayList.h"
+
+1501804082 source:c:\users\cristian\desktop\repositorio\trabajos-del-primer-cuatrimestre\finales\final\tickets.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+	"tickets.h"
+	"problemas.h"
+
+1501802650 c:\users\cristian\desktop\repositorio\trabajos-del-primer-cuatrimestre\finales\final\tickets.h
+	"ArrayList.h"
+

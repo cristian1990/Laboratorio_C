@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500428652 source:c:\users\cristian\desktop\repasando\archivos\crear_archivo_texto\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1495079751 source:c:\users\cristian\desktop\tp parcial\final\estacionamiento\estacionamiento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamiento.h"
+	"utn.h"
+
+1495147222 c:\users\cristian\desktop\tp parcial\final\estacionamiento\estacionamiento.h
+
+1495078137 c:\users\cristian\desktop\tp parcial\final\estacionamiento\utn.h
+
+1495078137 source:c:\users\cristian\desktop\tp parcial\final\estacionamiento\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+
+1495079656 source:c:\users\cristian\desktop\tp parcial\final\estacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamiento.h"
+	"utn.h"
+
+1496174696 source:e:\archivos\utn\laboratorio 1 - programacion 1\parciales\tp parcial\final\estacionamiento\estacionamiento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamiento.h"
+	"utn.h"
+
+1496199968 e:\archivos\utn\laboratorio 1 - programacion 1\parciales\tp parcial\final\estacionamiento\estacionamiento.h
+
+1495078137 e:\archivos\utn\laboratorio 1 - programacion 1\parciales\tp parcial\final\estacionamiento\utn.h
+
+1495078137 source:e:\archivos\utn\laboratorio 1 - programacion 1\parciales\tp parcial\final\estacionamiento\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+
+1496174840 source:e:\archivos\utn\laboratorio 1 - programacion 1\parciales\tp parcial\final\estacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamiento.h"
+	"utn.h"
+
+1496779109 source:c:\users\cristian\desktop\final\estacionamiento\estacionamiento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamiento.h"
+	"utn.h"
+
+1496779109 c:\users\cristian\desktop\final\estacionamiento\estacionamiento.h
+
+1495078137 c:\users\cristian\desktop\final\estacionamiento\utn.h
+
+1496779851 source:c:\users\cristian\desktop\final\estacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamiento.h"
+	"utn.h"
+
+1495078137 source:c:\users\cristian\desktop\final\estacionamiento\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+
+1496796903 source:c:\users\alumno\desktop\final\estacionamiento\estacionamiento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamiento.h"
+	"utn.h"
+
+1496796922 c:\users\alumno\desktop\final\estacionamiento\estacionamiento.h
+
+1495078138 c:\users\alumno\desktop\final\estacionamiento\utn.h
+
+1495078138 source:c:\users\alumno\desktop\final\estacionamiento\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+
+1496795989 source:c:\users\alumno\desktop\final\estacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamiento.h"
+	"utn.h"
+
+1496796904 source:e:\archivos\utn\laboratorio 1 - programacion 1\pendrive\final + agregado\estacionamiento\estacionamiento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamiento.h"
+	"utn.h"
+
+1496796924 e:\archivos\utn\laboratorio 1 - programacion 1\pendrive\final + agregado\estacionamiento\estacionamiento.h
+
+1495078138 e:\archivos\utn\laboratorio 1 - programacion 1\pendrive\final + agregado\estacionamiento\utn.h
+
+1496797004 source:e:\archivos\utn\laboratorio 1 - programacion 1\pendrive\final + agregado\estacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamiento.h"
+	"utn.h"
+
+1495078138 source:e:\archivos\utn\laboratorio 1 - programacion 1\pendrive\final + agregado\estacionamiento\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+

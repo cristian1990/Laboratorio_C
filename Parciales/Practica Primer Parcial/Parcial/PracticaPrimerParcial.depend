@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1475961043 source:/Users/Mauro/Documents/workspace_videos_c/PracticaPrimerParcial/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1476053157 source:/Users/Mauro/Documents/workspace_videos_c/PracticaPrimerParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"controler.h"
+
+1475961035 /Users/Mauro/Documents/workspace_videos_c/PracticaPrimerParcial/utn.h
+
+1476052595 source:/Users/Mauro/Documents/workspace_videos_c/PracticaPrimerParcial/abonado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abonado.h"
+
+1476052553 /Users/Mauro/Documents/workspace_videos_c/PracticaPrimerParcial/abonado.h
+
+1476052553 source:/Users/Mauro/Documents/workspace_videos_c/PracticaPrimerParcial/llamada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"llamada.h"
+
+1475968973 source:/Users/Mauro/Documents/workspace_videos_c/PracticaPrimerParcial/vista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abonado.h"
+	"llamada.h"
+
+1476052553 /Users/Mauro/Documents/workspace_videos_c/PracticaPrimerParcial/llamada.h
+
+1475968415 /Users/Mauro/Documents/workspace_videos_c/PracticaPrimerParcial/vista.h
+
+1476053436 /Users/Mauro/Documents/workspace_videos_c/PracticaPrimerParcial/controler.h
+	"abonado.h"
+	"llamada.h"
+
+1476053436 source:/Users/Mauro/Documents/workspace_videos_c/PracticaPrimerParcial/controler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"abonado.h"
+	"llamada.h"
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1477923502 source:d:\fernandezdavid\scanfejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481721562 source:c:\users\profesor\desktop\fscanfejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1495630702 source:c:\users\cristian\desktop\pendrive\26 -05 1h labo1\fscanfejemplo2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1500000531 source:c:\users\cristian\desktop\material para examen\ejemplos\archivos\fscanfejemplo2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

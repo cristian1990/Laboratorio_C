@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499476632 source:c:\users\cristian\desktop\repasando\funcionesstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1497571710 source:d:\evaluacion\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497494526 d:\evaluacion\arraylist.h
+
+1497659974 source:d:\evaluacion\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1497649860 d:\evaluacion\funciones.h
+
+1497660085 source:d:\evaluacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1497571710 source:c:\users\cristian\desktop\parcial laboratorio\examen 2 laboratorio\evaluacion\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497494526 c:\users\cristian\desktop\parcial laboratorio\examen 2 laboratorio\evaluacion\arraylist.h
+
+1499739044 source:c:\users\cristian\desktop\parcial laboratorio\examen 2 laboratorio\evaluacion\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1497649862 c:\users\cristian\desktop\parcial laboratorio\examen 2 laboratorio\evaluacion\funciones.h
+
+1499739248 source:c:\users\cristian\desktop\parcial laboratorio\examen 2 laboratorio\evaluacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1497571710 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 3\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1499812339 c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 3\arraylist.h
+
+1499739044 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1499894272 c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 3\funciones.h
+
+1499739248 source:c:\users\cristian\desktop\parcial laboratorio\examen hechos\practica 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1497571710 source:c:\users\cristian\desktop\material para examen\examen hechos\practica 3\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1499812339 c:\users\cristian\desktop\material para examen\examen hechos\practica 3\arraylist.h
+
+1499739044 source:c:\users\cristian\desktop\material para examen\examen hechos\practica 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1499894272 c:\users\cristian\desktop\material para examen\examen hechos\practica 3\funciones.h
+
+1499739248 source:c:\users\cristian\desktop\material para examen\examen hechos\practica 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
