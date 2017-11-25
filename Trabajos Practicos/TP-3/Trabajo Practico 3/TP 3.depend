@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1496429384 source:c:\users\cristian\desktop\tp 3 final\tp 3\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"utn.h"
+
+1496429207 c:\users\cristian\desktop\tp 3 final\tp 3\funciones.h
+
+1493703060 c:\users\cristian\desktop\tp 3 final\tp 3\utn.h
+
+1493703090 source:c:\users\cristian\desktop\tp 3 final\tp 3\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+
+1496448155 source:c:\users\alumno\desktop\tp 3 final\tp 3\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"utn.h"
+
+1496429208 c:\users\alumno\desktop\tp 3 final\tp 3\funciones.h
+
+1493703062 c:\users\alumno\desktop\tp 3 final\tp 3\utn.h
+
+1493703092 source:c:\users\alumno\desktop\tp 3 final\tp 3\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+
+1496452204 source:c:\users\alumno\desktop\tp 3 final\tp 3\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"utn.h"
+

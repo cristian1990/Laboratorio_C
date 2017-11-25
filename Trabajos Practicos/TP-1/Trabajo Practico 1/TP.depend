@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1491349815 source:c:\users\alumno\desktop\laboratorio 1 - programacion 1\trabajo practico\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+
+1491349506 c:\users\alumno\desktop\laboratorio 1 - programacion 1\trabajo practico\tp\trabajo.h
+
+1491349815 source:c:\users\alumno\desktop\laboratorio 1 - programacion 1\trabajo practico\tp\trabajo.c
+	"trabajo.h"
+
+1491326377 source:e:\archivos\utn\laboratorio 1 - programacion 1\trabajo practico\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+
+1491173709 e:\archivos\utn\laboratorio 1 - programacion 1\trabajo practico\tp\trabajo.h
+
+1491326248 source:e:\archivos\utn\laboratorio 1 - programacion 1\trabajo practico\tp\trabajo.c
+	"trabajo.h"
+
+1491349816 source:e:\archivos\utn\laboratorio 1 - programacion 1\trabajos practicos\trabajo practico\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+
+1491349508 e:\archivos\utn\laboratorio 1 - programacion 1\trabajos practicos\trabajo practico\tp\trabajo.h
+
+1491349816 source:e:\archivos\utn\laboratorio 1 - programacion 1\trabajos practicos\trabajo practico\tp\trabajo.c
+	"trabajo.h"
+
